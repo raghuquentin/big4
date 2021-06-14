@@ -9,7 +9,6 @@ package com.ds.linkedlist;
  * EmployeeNode       -> Node
  * Employee           -> data
  */
-
 import com.ds.linkedlist.model.Employee;
 
 public class Main {
