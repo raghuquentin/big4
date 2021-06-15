@@ -14,5 +14,9 @@ public class Employee {
     public Employee(long empId){
         this.empId = empId;
     }
+    public Employee(long empId,String empName){
+        this.empId = empId;
+        this.empName=empName;
+    }
 
 }
